@@ -1,0 +1,54 @@
+<RCC>
+    <qresource prefix="/">
+        <file>Source/Arrow-hover.png</file>
+        <file>Source/Arrow.png</file>
+        <file>Source/BigPen.png</file>
+        <file>Source/BigPen-hover.png</file>
+        <file>Source/BlackRect.png</file>
+        <file>Source/BlackRect-hover.png</file>
+        <file>Source/BlueRect.png</file>
+        <file>Source/BlueRect-hover.png</file>
+        <file>Source/BrushPen.png</file>
+        <file>Source/BrushPen-hover.png</file>
+        <file>Source/Circle.png</file>
+        <file>Source/Circle-hover.png</file>
+        <file>Source/Cut.png</file>
+        <file>Source/Cut-hover.png</file>
+        <file>Source/Cut-Press.png</file>
+        <file>Source/Done.png</file>
+        <file>Source/Done-hover.png</file>
+        <file>Source/DownLoad.png</file>
+        <file>Source/DownLoad-hover.png</file>
+        <file>Source/Forward.png</file>
+        <file>Source/Forward-hover.png</file>
+        <file>Source/GreenRect.png</file>
+        <file>Source/GreenRect-hover.png</file>
+        <file>Source/GreyRect.png</file>
+        <file>Source/GreyRect-hover.png</file>
+        <file>Source/Line.png</file>
+        <file>Source/Line-hover.png</file>
+        <file>Source/MediumPen.png</file>
+        <file>Source/MediumPen-hover.png</file>
+        <file>Source/Model.png</file>
+        <file>Source/Quit.png</file>
+        <file>Source/Quit-hover.png</file>
+        <file>Source/RectAngle.png</file>
+        <file>Source/RectAngle-hover.png</file>
+        <file>Source/RedRect.png</file>
+        <file>Source/RedRect-hover.png</file>
+        <file>Source/Scissors - pressed.PNG</file>
+        <file>Source/Scissors.png</file>
+        <file>Source/Scissors-hover.png</file>
+        <file>Source/Scissors-pressed.png</file>
+        <file>Source/ScreenShotIcon.jpeg</file>
+        <file>Source/ScreenShotIcon.png</file>
+        <file>Source/SmallPen.png</file>
+        <file>Source/SmallPen-hover.png</file>
+        <file>Source/Text.png</file>
+        <file>Source/Text-hover.png</file>
+        <file>Source/WhiteRect.png</file>
+        <file>Source/WhiteRect-hover.png</file>
+        <file>Source/YellowRect.png</file>
+        <file>Source/YellowRect-hover.png</file>
+    </qresource>
+</RCC>
